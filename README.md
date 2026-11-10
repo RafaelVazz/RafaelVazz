@@ -33,9 +33,5 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelVazz/RafaelVazz/gh-pages/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelVazz/RafaelVazz/gh-pages/github-contribution-grid-snake.svg">
-    <img alt="Animação da Cobrinha do GitHub" src="https://raw.githubusercontent.com/RafaelVazz/RafaelVazz/gh-pages/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="Animação da Cobrinha do GitHub" src="https://raw.githubusercontent.com/RafaelVazz/RafaelVazz/refs/heads/output/github-contribution-grid-snake.svg">
 </div>
