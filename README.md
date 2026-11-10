@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Rafael Vaz</h1>
+<h1 align="center">Hi 👋, I'm Rafael Vaz</h1>
 <h3 align="center">Brazil Analytics - Insights</h3>
 
 - 📫 How to reach me **bp_rafael_vaz@colpal.com**
